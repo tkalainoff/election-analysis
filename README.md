@@ -1,13 +1,13 @@
 # Election-Analysis
 
 ## Project Overview - Election Audit
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.mIn order to complete the election audit of a recent local congressional election in Colorado, additional tasks were requested from the election commission.
+A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election (1-5). In order to complete the election audit, additional tasks were requested from the election commission (6-8).
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the elction based on popular vote.
+1. Calculate the total number of votes cast
+2. Get a complete list of candidates who received votes
+3. Calculate the total number of votes each candidate received
+4. Calculate the percentage of votes each candidate won
+5. Determine the winner of the elction based on popular vote
 6. The voter turnout for each county
 7. The percentage of votes from each county out of the total count
 8. The county with the highest turnout
@@ -29,6 +29,7 @@ The analysis of the election show that:
     - Raymon Anthony Doane received 3.1% of the vote and 11,6060 number of votes
 - The winner of the election was:
     - Diana DeGette who received 73.8% of the vote and 272,892 number of votes
+
 The analysis of counties show that:
 - There were three counties in this particular election.
 - The counties were:
